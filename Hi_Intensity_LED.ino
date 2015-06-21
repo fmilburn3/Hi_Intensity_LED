@@ -73,8 +73,7 @@
    and the LED was still very bright.  This would be about 0.28 Amps.
    
    Pin:
-   Any digital pin can be used.  This circuit will work with PWM if one of
-   the pins capable of PWM is selected.
+   Any digital pin can be used.  
  
    Note that the code that follows is the same as that in the standard
    "Hello World" blink an LED except perhaps for the pin.
